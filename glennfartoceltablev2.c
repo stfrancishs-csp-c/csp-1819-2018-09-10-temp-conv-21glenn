@@ -1,11 +1,10 @@
 /***********
     file: in class / hwk farenheit to celcius table
-    File: glennfartoceltable.c
+    File: glennfartoceltablev2.c
     Riley Glenn
     APCS50
 **********/
 # include <stdio.h>
-
 int main (void){
     int fahr;
 
